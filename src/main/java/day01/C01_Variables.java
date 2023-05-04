@@ -68,6 +68,10 @@ public class C01_Variables {
         y = 14.9;
         System.out.println("x = " + x);
         System.out.println("y = " + y);
+        
+        
+        
+        //GitHub'dan deneme mesaji var.
 
 
 
